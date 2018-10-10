@@ -2,7 +2,7 @@ package com.aiit.model.vo.response;
 
 /**
  * 键值对
- * @author jfjiang
+ * @author 王海东
  */
 public class KeyValuePair {
     /**
