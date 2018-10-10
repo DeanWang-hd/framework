@@ -2,7 +2,7 @@ package com.aiit.model.vo.response;
 
 /**
  * 响应消息
- * @author jfjiang
+ * @author 王海东
  */
 public class ResponseMsg {
     /**
