@@ -1,8 +1,8 @@
 package com.aiit.model.vo.response;
 
 /**
- * 返回码及说明2
- * @author jfjiang
+ * 返回码及说明
+ * @author 王海东
  */
 public final class ResponseCode {
     public final static KeyValuePair SUCCESS = new KeyValuePair("200", "请求成功");
