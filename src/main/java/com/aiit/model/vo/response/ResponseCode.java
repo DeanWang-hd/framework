@@ -1,7 +1,7 @@
 package com.aiit.model.vo.response;
 
 /**
- * 返回码及说明
+ * 返回码及说明2
  * @author jfjiang
  */
 public final class ResponseCode {
