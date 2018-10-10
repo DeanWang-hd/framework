@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+    <typeAliases>
+        <!-- 查询参数-->
+
+        <!-- 业务实体-->
+        <typeAlias type="com.aiit.model.po.TestModel" alias="TestModel"/>
+        <typeAlias type="java.lang.Integer" alias="Integer"/>
+
+    </typeAliases>
+</configuration>
